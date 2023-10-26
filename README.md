@@ -1,4 +1,8 @@
-### Hi, there 👋
+# Hi, 👋 Tahmid Here
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftahmidanik)
+
+
 
 ![dotNet](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
