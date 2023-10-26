@@ -7,7 +7,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Resume-%232A3FFB?style=for-the-badge&logo=readme&logoColor=white">
 </a>
 
-
+🛠 Expert In:
+=============
 ![dotNet](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
@@ -26,15 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 
+## 👨‍💻 About me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+I am a dedicated, flexible, and competent Software developer with around 8 years of experience both in local and offshore industries designing and developing SharePoint/software/web applications according to client needs. I have extensive expertise in debugging, troubleshooting, and executing application programs to make sure they deliver the expected output. Also capable of creating technical documentation and liaising with the developer team to complete projects on time. I am a certified professional with excellent communication skills and well-experienced in agile development methodology and project planning through JIRA.
