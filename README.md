@@ -6,6 +6,11 @@
 <a href="Md Tahmidul Abedin.pdf">
   <img alt="Static Badge" src="https://img.shields.io/badge/Resume-%232A3FFB?style=for-the-badge&logo=readme&logoColor=white">
 </a>
+<a href="https://tahmidulabedin.me/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=appium&logoColor=white">
+</a>
+
+
 
 🛠 Expert In:
 =============
