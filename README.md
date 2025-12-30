@@ -32,6 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 
-## 👨‍💻 About me
+## 👨‍💻 About me <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/computerrage.gif" width="20" height="20" />
 
 I am a dedicated, flexible, and competent Software developer with around 9 years of experience both in local and offshore industries, designing and developing SharePoint/software/web applications according to client needs. I have extensive expertise in debugging, troubleshooting, and executing application programs to make sure they deliver the expected output. Also capable of creating technical documentation and liaising with the developer team to complete projects on time. I am a certified professional with excellent communication skills and well-experienced in agile development methodology and project planning through JIRA.
